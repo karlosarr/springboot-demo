@@ -22,3 +22,4 @@ jobs:
           # for more options
           token: ${{ secrets.GITHUB_TOKEN }}
           release-type: maven
+          target-branch: ${{ github.ref_name }}
