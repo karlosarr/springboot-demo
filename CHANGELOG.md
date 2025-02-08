@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/karlosarr/springboot-demo/compare/v1.1.0...v1.2.0) (2025-02-08)
+
+
+### Features
+
+* test ([8909f37](https://github.com/karlosarr/springboot-demo/commit/8909f37bb6e91494ab30255f8d934138f79b2605))
+
 ## [1.1.0](https://github.com/karlosarr/springboot-demo/compare/1.0.1...v1.1.0) (2025-02-08)
 
 
