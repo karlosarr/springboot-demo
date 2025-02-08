@@ -20,5 +20,5 @@ jobs:
           # (PAT) and configured it as a GitHub action secret named
           # this is a built-in strategy in release-please, see "Action Inputs"
           # for more options
-          token: secrets.GITHUB_TOKEN
+          token: ${{ secrets.GITHUB_TOKEN }}
           release-type: maven
